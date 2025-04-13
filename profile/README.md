@@ -1,8 +1,11 @@
 # 🌟 Welcome to A.pl Organization 🌟
 
+[Presentation PDF link](https://drive.google.com/file/d/1rJI35swpFk0rsrEfgsLu8bMextFAreS-/view?usp=sharing)
+
 **A.pl** is a modular agent ecosystem that bridges AI agents with blockchain technology. Here, we explore decentralized interactions by enabling autonomous AI agents to seamlessly operate within Web3 environments.
 
 Our repositories include a variety of interconnected components, providing a robust framework for creating, deploying, and interacting with AI-powered blockchain-native agents.
+![image](https://github.com/user-attachments/assets/d41d7b22-edde-4bc2-9960-5931d85ceeff)
 
 ---
 
